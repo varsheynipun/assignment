@@ -6,6 +6,7 @@ public int sum(int a, int b)
 {
 	int c;
 	c=a+b;
+	System.out.println("kailash");
 	System.out.println("sum result is "+c);
 	return c;
 }
